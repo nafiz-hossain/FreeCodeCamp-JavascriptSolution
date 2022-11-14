@@ -1,6 +1,5 @@
 # freeCodeCamp
 
-freeCodeCamp
 
 Why this repos ?
 
